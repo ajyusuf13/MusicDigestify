@@ -1,0 +1,147 @@
+.musicEntryDiv {
+    padding-top: 50px;
+    align-content: center;
+    justify-content: center;
+
+
+}
+
+.musicTrackDiv {
+    display: flex;
+    text-align: center;
+    align-items: center;
+
+
+}
+
+.musicImageDiv {
+
+}
+
+.musicImage {
+    width: 300px;
+    height: 300px;
+    margin: 5px 5px;
+    border-radius: 1rem;
+}
+
+.musicTrackInfoDiv {
+    display: block;
+    text-align: left;
+    width: 550px;
+    height: 300px;
+    position: relative;
+}
+
+.musicTrackTitleAndArtist {
+    display: block;
+    text-align: left;
+    width: 550px;
+    position: absolute;
+    bottom: 5px;
+}
+
+.musicTrackTitle {
+    color: white;
+    width: 550px;
+    font-size: 48px;
+    font-family: 'Secular One', sans-serif;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+
+}
+
+.musicTrackArtist {
+    color: white;
+    font-size: 20px;
+    display: block;
+    font-family: 'Sarabun', sans-serif;
+    margin-left: 5px;
+    padding-bottom: 1px;
+}
+
+.playpauseDiv {
+    display: flex;
+    margin-top: 5px;
+}
+
+.playIconDiv {
+    width: 40px;
+    background-color: #1DB954;
+    display: grid;
+    cursor: pointer;
+    border-radius: 3rem;
+    transition: all 0.2s ease;
+    margin: auto 5px;
+    float: left;
+}
+
+.playIcon:hover {
+     transform: scale(1.10);
+
+}
+
+
+.pauseIconDiv {
+    width: 40px;
+    background-color: #1DB954;
+    display: grid;
+    cursor: pointer;
+    border-radius: 3rem;
+    margin: auto 5px;
+    transition: all 0.2s ease;
+    float: left;
+
+}
+
+.pauseIcon:hover {
+     transform: scale(1.05);
+}
+
+
+.musicEntry {
+    width: 50vw;
+    height: 35vh;
+    font-size: 20px;
+    font-family: 'Sarabun', sans-serif;
+    border-radius: 18px;
+    padding: 15px;
+}
+
+.musicEntry:focus {
+    outline: none;
+}
+
+.musicEntry::placeholder {
+    color: rgb(189, 185, 185);
+    font-weight: 400;
+}
+
+.btnGroup {
+    display: flex;
+    width: 52vw;
+    align-items: center;
+    justify-content: right;
+}
+
+.musicEntryButton {
+    color: white;
+    background-color: #27bb05;
+    padding: 0px;
+    margin: 5px 3px;
+    border: none;
+    border-radius: 10px;
+    font-family: 'Karla', sans-serif;
+    font-size: 12px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    width: 70px;
+    height: 30px;
+    align-items: center;
+    justify-content: center;
+}
+
+
