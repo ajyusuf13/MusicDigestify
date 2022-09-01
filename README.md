@@ -1,5 +1,7 @@
 # MusicDigestify
 
+[Music Digestify](https://music-digestify.herokuapp.com/)
+
 Music Digestify is an application that works only if linked to a Spotify account. Once logged in, users will be able to see a variety of information regarding their spotify account:
   - top tracks
   - top artists
