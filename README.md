@@ -4,6 +4,7 @@ Music Digestify is an application that works only if linked to a Spotify account
   - top tracks
   - top artists
   - your playlists
+
 However, the essence of this application is that it allows users to pen the connection one might have to a particular song. You can search for any song, and write a diary entry for it. Perhaps one wants to write about how the song makes them feel, where they were when they first heard it, or about a specific memory that comes to mind when they hear it. And the best part of all, is that all your entries will be saved so you can keep adding to your intimate music diary collection.
 
 ### Home Page
