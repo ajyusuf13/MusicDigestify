@@ -2,6 +2,13 @@
 
 [Music Digestify](https://music-digestify.herokuapp.com/)
 
+## Update:
+App is still in development mode while I wait for Spotify to approve my quote extension request. Development mode means that only up to 25 users can use this application, and these users must be added through my Spotify Developer dashboard. Therefore, if you try to use the application through the link above, you will not be able to do so because I have not listed you down as a user. If you would like to be added, please email me at @andrewjy1213@gmail.com your name and the email associated with your Spotify account.
+
+If Spotify approves of my extension request, the app will then be available to an unlimited amount of Spotify users.
+
+#--------
+
 Music Digestify is an application that works only if linked to a Spotify account. Once logged in, users will be able to see a variety of information regarding their spotify account:
   - top tracks
   - top artists
